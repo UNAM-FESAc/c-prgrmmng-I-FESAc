@@ -1,6 +1,7 @@
 /* 
 TAREAS:
 
-
+Para el archivo de números primos debes implementar para que el programa funcione en 
+el dominio [1,10], [1,15] y [1,50]; después para todos los números pares e impares.
 
 */
