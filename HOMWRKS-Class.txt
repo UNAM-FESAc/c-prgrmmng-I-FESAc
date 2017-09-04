@@ -31,7 +31,7 @@ n.   Fin
 
 
 Debes terminar Tu tarea consiste en obtener la necesidad de combustible total.
-
+Recuerda usar las herramientas compartidas en clase. Interactua con la terminal.
 
 
 *****************************************************************************
