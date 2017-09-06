@@ -7,7 +7,7 @@ La primer parte de este trabajo en clase es
 realizar un pseudocodigo y dar una salida 
 legible para aquel usuario que tenga el 
 archivo ejecutable.
-
+Fuente: http://programavideojuegos.blogspot.mx/
  */
 
 int main(void)
