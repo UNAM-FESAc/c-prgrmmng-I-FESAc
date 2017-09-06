@@ -1,7 +1,12 @@
 #include <stdio.h>
-//#include <stdlib.h>
+/*
+En este archivo encuentras el uso del operador || (significa "o").
+Debes crear el pseudocódigo y extender erchivo para que las respuestas 
+posibles sea s, n, y.
+Fuente: http://programavideojuegos.blogspot.mx/
+*/
 
-int main(void)
+int main()
 {
   char c;
            
@@ -15,7 +20,5 @@ int main(void)
     {
       printf("Es incorrecto\n");
     }
-   
-  //  system("PAUSE");      
-  return 0;
+     return 0;
 }
