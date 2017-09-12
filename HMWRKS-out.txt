@@ -1,7 +1,29 @@
+
+*/
+
+//****************************************************************************
+
+// Descarga el siguiente archivo y observa su salida. Descrubre qué sucede
+// si cambias los números que se encuentran entre los paréntesis.
+
+#include <stdio.h>
+
+int main(){
+
+char palabras[]="Carrera de Matematicas Aplicadas y Computacion";
+
+printf("%s %s\n", palabras, &palabras[8]);
+puts(palabras);
+puts(&palabras[11]);
+return 0;
+}
+
+//****************************************************************************
+
+
+
 /* 
 TAREAS:
 
 Para el archivo de números primos debes implementar para que el programa funcione en 
 el dominio [1,10], [1,15] y [1,50]; después para todos los números pares e impares.
-
-*/
