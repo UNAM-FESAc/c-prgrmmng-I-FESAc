@@ -1,7 +1,17 @@
+//****************************************************************************
+// 3)
+Escribe un programa que muestre tu apellido en con algún caracter, ejemplo:
 
-*/
+*****  *****  ****   *   *  *****
+*   *  *   *  *   *  *   *    *
+*   *  * *    *   *  *   *   *
+*   *  *  *   *  *   *   *  *
+*****  *   *  ***    *****  *****
+
+
 
 //****************************************************************************
+// 2)
 
 // Descarga el siguiente archivo y observa su salida. Descrubre qué sucede
 // si cambias los números que se encuentran entre los paréntesis.
@@ -19,11 +29,7 @@ return 0;
 }
 
 //****************************************************************************
-
-
-
-/* 
-TAREAS:
+// 1)
 
 Para el archivo de números primos debes implementar para que el programa funcione en 
 el dominio [1,10], [1,15] y [1,50]; después para todos los números pares e impares.
