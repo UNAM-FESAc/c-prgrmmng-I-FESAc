@@ -1,6 +1,6 @@
 //****************************************************************************
 // 3)
-Escribe un programa que muestre tu apellido en con algún caracter, ejemplo:
+Escribe un programa que muestre tu apellido con algún caracter, ejemplo:
 
 *****  *****  ****   *   *  *****
 *   *  *   *  *   *  *   *    *
