@@ -2,8 +2,8 @@
 
 /*
 La instruccion while se utiliza para generar bucles (ciclos):
-un grupo de instrucciones se ejecuta de forma repetida, hasta 
-satisfacer la condicion
+hasta satisfacer la condicion, un grupo de instrucciones se 
+ejecuta de forma repetida.
 la forma general es:
 
 while(condicion){instrucciones}
