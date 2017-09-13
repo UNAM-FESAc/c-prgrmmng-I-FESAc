@@ -4,7 +4,7 @@
 
 /* 
  Observe el siguiente codigo y realice los cambios pertinentes
- para la salida muestre los operadores relacionales y los resultados
+ para que la salida muestre los operadores relacionales y los resultados
  correctamente.
 */
 int main()
