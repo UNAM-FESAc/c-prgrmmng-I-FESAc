@@ -1,3 +1,15 @@
+
+//****************************************************************************
+
+// 4)
+
+Escriba un codigo que tome una letra (mayuscula o minuscula) y le indique si 
+es una vocal, el tal caso que escriba en pantalla si 
+es vocal abierta o cerrada. Implemente 
+una switch con cinco casos y un if-else para 
+escribir en pantalla el tipo de vocal. 
+
+
 //****************************************************************************
 // 3)
 Escribe un programa que muestre tu apellido con algún caracter, ejemplo:
