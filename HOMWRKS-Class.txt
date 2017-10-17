@@ -1,5 +1,21 @@
 En este archivo encontrarán algunas tareas que se deben realizar en clase.
 
+
+
+
+*****************************************************************************
+
+3) Investigar qué es un ámbito o alcance de una variable, para qué sirve y cuántos 
+tipos de ámbitos hay. El estudiante debe crear un programa donde responda estas 
+preguntas a manera de menú.
+
+*****************************************************************************
+
+2) 
+Debes realizar un programa que te pida dos números al inicio, realice las cuatro operaciones 
+aritméticas básicas y escriba en terminal si el resultado de cada una de las operaciones 
+es mayor (o menor) que 100.
+
 *****************************************************************************
 
 1)
@@ -32,13 +48,6 @@ n.   Fin
 
 Debes terminar Tu tarea consiste en obtener la necesidad de combustible total.
 Recuerda usar las herramientas compartidas en clase. Interactua con la terminal.
-
-
-*****************************************************************************
-2) 
-Debes realizar un programa que te pida dos números al inicio, realice las cuatro operaciones 
-aritméticas básicas y escriba en terminal si el resultado de cada una de las operaciones 
-es mayor (o menor) que 100.
 
 *****************************************************************************
 
