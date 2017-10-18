@@ -1,7 +1,11 @@
 En este archivo encontrarán algunas tareas que se deben realizar en clase.
 
-
-
+*****************************************************************************
+4) Considere que una empresa telefónica, realiza los cobros usando los siguientes 
+criterios:
+- Toda llamada saliente que dure menos de tres minutos tiene un coste de $ 1.5MXN.
+- cada segundo adicional a partir de los 3.1 mins tiene un coste de $ 0.8 MXN.
+- Considere que la empresa duplica la cantidad para llamadas a EE. UU. y Canadá.
 
 *****************************************************************************
 
