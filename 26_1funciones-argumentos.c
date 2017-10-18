@@ -28,6 +28,8 @@ printf("\nEl volumen del cono es: %.2f cm3\n\v", volumen);
 return 0;
 }
 
-
-
+/*
+El ejercicio del estudiante consiste en realizar calculos para tres diferentes volúmenes 
+como función en línea y como función generada por el usuario.
+*/
 
