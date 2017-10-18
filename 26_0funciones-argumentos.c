@@ -19,7 +19,8 @@ En estas lineas definimos la funcion creada por el usuario. La forma general es:
 
 
 /*
-En las siguientes lineas creamos la funcion principal
+El ejercicio del estudiante consiste en implementar, al menos, cinco funciones en línea y 
+posteriormente, implementarlas como funciones creadas por el usuario.
 */
 
 #include <stdio.h>
