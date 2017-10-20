@@ -1,7 +1,7 @@
 /*
-Este programa recibe un caracter no numerico 
-indefinidamente. El bucle termina al introducir un 
-caracter numerico
+Este programa usa una funcion de biblioteca.
+Investiga e implementa una funcion srand(semilla).
+Explica tu razonamiento.
 */
 
 
