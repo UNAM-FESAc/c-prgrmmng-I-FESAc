@@ -1,11 +1,21 @@
 En este archivo encontrarán algunas tareas que se deben realizar en clase.
 
 *****************************************************************************
+5) Realizar un algoritmo para resolver una ecuación de segundo grado: 
+a*x*x + b*x + c =0.
+
+Considere que pueden haber raíces complejas.
+
+*****************************************************************************
 4) Considere que una empresa telefónica, realiza los cobros usando los siguientes 
 criterios:
 - Toda llamada saliente que dure menos de tres minutos tiene un coste de $ 1.5MXN.
 - cada segundo adicional a partir de los 3.1 mins tiene un coste de $ 0.8 MXN.
-- Considere que la empresa duplica la cantidad para llamadas a EE. UU. y Canadá.
+- Considere que la empresa cobra $ 2.0USD para los primeros 3 mins y el segundo adicional 
+  , a partir de 3.1 mins, tiene un coste de $ 0.5USD para llamadas a EE. UU. y Canadá.
+
+Permite que tu programa tenga el tiempo de una llamada y el país como parámetros de entrada.
+
 
 *****************************************************************************
 
