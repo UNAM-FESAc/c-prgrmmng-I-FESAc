@@ -3,8 +3,9 @@
 
 // 5)
 
-Escriba un codigo que muestre un calendario mediante funciones, similar al calendario 
-que muestra una computadora.
+Escriba un codigo que muestre un calendario, similar al calendario 
+que muestra una computadora. Es importante que use funciones creadas por el usuario.
+Evite las funciones de biblioteca.
 
 
 //****************************************************************************
