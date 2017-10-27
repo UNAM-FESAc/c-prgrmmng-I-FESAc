@@ -1,6 +1,14 @@
 
 //****************************************************************************
 
+// 5)
+
+Escriba un codigo que muestre un calendario mediante funciones, similar al calendario 
+que muestra una computadora.
+
+
+//****************************************************************************
+
 // 4)
 
 Escriba un codigo que tome una letra (mayuscula o minuscula) y le indique si 
