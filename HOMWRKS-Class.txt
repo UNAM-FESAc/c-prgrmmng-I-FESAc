@@ -1,6 +1,12 @@
 En este archivo encontrarán algunas tareas que se deben realizar en clase.
 
 *****************************************************************************
+6) Realizar un algoritmo que solicite el valor de angulo y muestre los 
+valores de las funciones trigonometricas: cos, tan, sen, cot, sec,  y sus funciones 
+inversas.
+
+
+*****************************************************************************
 5) Realizar un algoritmo para resolver una ecuación de segundo grado: 
 a*x*x + b*x + c =0.
 
