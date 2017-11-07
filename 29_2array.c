@@ -1,27 +1,43 @@
 /*
-Programa para implementar un arreglo solicitando datos por terminal.
+Implementaremos algunos conceptos. 
+Identifiquemos:
+
+1) static
+
+2) Apuntador
+
+3) Arreglo
+
+4) register
+
+5) Bucle
+
+6) Operadores
+
+7) Direcciones de memoria
+
+8) Formatos
+
 */
 
-
 #include <stdio.h>
+ 
+static int num = 4;
+ 
+int main () {
 
-int main(){
-
-int i;
-
-float a[2];
-
-printf("primer ");
-scanf("%f", &a[0]);
-
-printf("segunda ");
-scanf("%f", &a[1]);
+   char *names[] = {"Simpson, B.","Simpson, H","Simpson, M.","Simpson, E."};
+   
+   register int i, j;
 
 
-for(i=0; i<=1; i++){
-printf("Tenemos que la %i componente es %.1f\n", i, a[i]);
+for ( i = 0; i < num; i++) {
+      printf("Los integrantes de la familia son [%d] = %s\n", i, names[i] );
+   }
+   
+   for ( j = 0; j < num; j++) {
+      printf("La direccion de la memoria para cada uno de los nombres de los miembros es [%d] = %x\n", j, *names[j] );
+   }
+
+   return 0;
 }
-
-return 0;
-}
-
