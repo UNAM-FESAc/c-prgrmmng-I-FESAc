@@ -1,3 +1,19 @@
+/*
+
+Repasemos algunos conceptos:
+
+
+- Varables locales
+
+- Durabilidad
+
+- Apuntador
+
+
+
+
+*/
+
 #include <stdio.h>
  
 static int max = 3;
