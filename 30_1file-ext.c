@@ -30,3 +30,7 @@ int main () {
    
    return(0);
 }
+
+/*
+Investiga para qué sirve la función rewind()
+*/
