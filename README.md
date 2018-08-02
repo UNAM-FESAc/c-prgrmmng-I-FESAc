@@ -24,4 +24,4 @@ programming.
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
 
-Check the [:link:](http://sae.acatlan.unam.mx/) use the data given for Salvador or Adriana to log in.
+Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador or Adriana to log in.
