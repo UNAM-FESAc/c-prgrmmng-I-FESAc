@@ -14,7 +14,7 @@ Ask to Salvador or Adriana about the course, philosophy, ideas, projects or any.
 
 
 Remember professor is not a :cop:, professor is a advisor who wants to discover differents things about 
-programming. /play secret
+programming.
 
    Object                                                         |  Porcentage  |
 ------------------------------------------------------------------| -------------|
@@ -23,3 +23,5 @@ programming. /play secret
   Final Project (friday 16 november):                        | 20 %         |    
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
+
+Check the [:link:](http://sae.acatlan.unam.mx/) use the data given for Salvador or Adriana to log in.
