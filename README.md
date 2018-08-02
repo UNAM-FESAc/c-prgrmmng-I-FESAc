@@ -18,8 +18,8 @@ programming. /play secret
 
    Object                                                         |  Porcentage  |
 ------------------------------------------------------------------| -------------|
-  First exam (Semana del 17 al 21 de septiembre):                 | 30 %         |
-  Second exam (Semana del 05 de 09 de noviembre):                 | 30 %         |
-  Final Project (viernes 16 de noviembre):                        | 20 %         |    
+  First exam (17-21 september):                 | 30 %         |
+  Second exam (05-09 november):                 | 30 %         |
+  Final Project (friday 16 november):                        | 20 %         |    
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
