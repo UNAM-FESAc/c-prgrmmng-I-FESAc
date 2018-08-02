@@ -8,6 +8,6 @@ The student has to read follow [blog](https://www.codementor.io/codementorteam/7
 
 - [X] esta es una
 
-- [] esta es 2
+- [ ] esta es 2
 
-- [] esta es 1
+- [ ] esta es 1
