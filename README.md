@@ -10,7 +10,7 @@ The student has to read follow blogs:
 
 Now you can discuss with your classmates :stuck_out_tongue_winking_eye:.
 
-Ask to Salvador or Adriana about the course, philosophy, ideas, projects or any.
+Ask to Salvador, Alfonso or Adriana about the course, philosophy, ideas, projects or any.
 
 
 Remember professor is not a :cop:, professor is a advisor who wants to discover differents things about 
@@ -24,4 +24,5 @@ programming.
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
 
-Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador or Adriana to log in.
+Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
+
