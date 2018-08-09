@@ -26,9 +26,9 @@ programming.
 
 Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
 
-### Homework
+### Homework (Section is building, the final version will be ready the monday at 9:00am)
 
 Hi guys! In this part all of you will find the first homework. 
 
 To start you have to read the next papers:
-- [First](https://ieeexplore.ieee.org/document/1605176/)
+- [The golden age of software architecture](https://ieeexplore.ieee.org/document/1605176/)
