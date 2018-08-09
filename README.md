@@ -31,4 +31,7 @@ Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Sa
 Hi guys! In this part all of you will find the first homework. 
 
 To start you have to read the next papers:
-- [The golden age of software architecture](https://ieeexplore.ieee.org/document/1605176/)
+- Read the abstract and Introduction of this [paper](https://arxiv.org/pdf/1307.1719.pdf) (Identifying change patterns in software history)
+- Read [The golden age of software architecture](https://ieeexplore.ieee.org/document/1605176/)
+- Read the parts 1 and 2 of the [The History of Software Architecture - In the Eye of the Practitioner](https://arxiv.org/pdf/1806.04055.pdf)
+
