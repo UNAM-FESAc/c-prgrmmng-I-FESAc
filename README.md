@@ -26,3 +26,9 @@ programming.
 
 Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
 
+### Homework
+
+Hi guys! In this part all of you will find the first homework. 
+
+To start you have to read the next papers:
+- [First](https://ieeexplore.ieee.org/document/1605176/)
