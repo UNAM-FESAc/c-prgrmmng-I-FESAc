@@ -1,5 +1,5 @@
 # Course: Programming I
-### By: Javier A. Orduz-Ducuara
+*By: Javier A. Orduz-Ducuara*
 
 This is a repository for the programming course 2019-I in FESAc. 
 
