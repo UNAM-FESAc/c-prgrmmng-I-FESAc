@@ -3,6 +3,7 @@
 
 This is a repository for the programming course 2019-I in FESAc. 
 
+
 ### Exercise for the begginners
 The student has to read follow blogs:
 - [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar) 
@@ -25,6 +26,7 @@ programming.
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
 
 Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
+Besides you can download the document use in the class [here](https://www.dropbox.com/s/z9f85f8k775eyyt/prgrmmng_II.pdf?dl=0).
 
 ### Homework (Section is building, the final version will be ready the monday at 9:00am)
 
