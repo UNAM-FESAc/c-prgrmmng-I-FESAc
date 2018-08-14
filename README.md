@@ -1,10 +1,10 @@
 # Course: Programming I
-## By: Javier A. Orduz-Ducuara
+### By: Javier A. Orduz-Ducuara
 
 This is a repository for the programming course 2019-I in FESAc. 
 
 
-### Exercise for the begginners
+## Exercise for the begginners
 The student has to read follow blogs:
 - [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar) 
 - [To motivate myself...](https://www.quora.com/What-can-I-do-to-motivate-myself-for-programming-regularly-for-4-6-hours)
@@ -24,11 +24,12 @@ programming.
   Final Project (friday 16 november):                        | 20 %         |    
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
-
+  
+## Material
 Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
 Besides you can download the document use in the class [here](https://www.dropbox.com/s/z9f85f8k775eyyt/prgrmmng_II.pdf?dl=0).
 
-### Homework (Section is building, the final version will be ready the monday at 9:00am)
+## Homework (Section is building, the final version will be ready the monday at 9:00am)
 
 Hi guys! In this part all of you will find the first homework. 
 
