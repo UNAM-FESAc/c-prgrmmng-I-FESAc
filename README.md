@@ -1,3 +1,10 @@
+# Cuestionario importante
+
+En este espacio encuentran el cuestionario requerido para el alta en el sitio SAE
+
+Importante:bangbang: [Cuestionario](https://ctimseminar.typeform.com/to/Ag2Vae)
+
+
 # Course: Programming I
 *By: Javier A. Orduz-Ducuara*
 
