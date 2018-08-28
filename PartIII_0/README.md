@@ -1,7 +1,7 @@
 # Práctica de Laboratorio 1
 
 ## Ejercicios
-- Modifica el archivo 06Ex_int_exercise.c para que el tipo
+- Modifica el archivo 06Ex_int_exercise.c(:link:)[https://github.com/UNAM-FESAc/c-prgrmmng-I-FESAc/blob/master/PartIII_0/06Ex_int_exercise.c] para que el tipo
   de dato sea *char, float* y *double*.
 
 - Realiza una declaración de variables para las
@@ -28,4 +28,4 @@ f) Un programa que trabaja con seis contadores para bucles.
 
 
 ### Referencias
-- Tipos de datos en C[:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210)
+- Tipos de datos en C [:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210)
