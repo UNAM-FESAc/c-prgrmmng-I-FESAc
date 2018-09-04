@@ -6,7 +6,7 @@ No olvides subir tu bitácora de actividades en SAE (busca el espacio reservado 
 ## Prácticas en Casa
 
 ### Primer Práctica dominguera
-_No dejes para el domingo lo que puedes que hacer realizar hoy_
+_No dejes para el domingo lo que puedes que hacer hoy_
  
 1.	~~~
 	Para el archivo (código fuente) de números primos debes implementar 
