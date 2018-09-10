@@ -1,8 +1,11 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
 /* Ejemplo para introducir el concepto de void, 
 los tipos de datos char e int, otros formatos como 
 string.
 
-TAREA: Introducir caracteres latinos como: ñ, á, é, etc.a
+
 
 Es posible que requiere otros estándar:
 gcc -Wall -std=c99 NOMBRE.c -o NOMBRE
@@ -36,3 +39,9 @@ printf("Su nombre es: %s \n", nombre);
 printf("Su edad es: %d  años \n", edad);
 return 0;
 }
+
+/*
+TAREA: Invetiga la forma de 
+Introducir caracteres latinos como: ñ, á, é, etc.
+Implementa un ejemplo en un codigo.
+*/
