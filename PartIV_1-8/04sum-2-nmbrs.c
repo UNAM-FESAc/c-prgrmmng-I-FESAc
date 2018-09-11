@@ -19,13 +19,4 @@ c= a+b;
 printf("la suma =%i\n", c);
 return 0;
 }
-/*
-Ejercicio:
-
-- Modifica el codigo para que tome los numeros desde la terminal y 
-  que no sean necesariamente enteros.
-- Edita el codigo para que reducir el numero de lineas.
-
-
-*/
 

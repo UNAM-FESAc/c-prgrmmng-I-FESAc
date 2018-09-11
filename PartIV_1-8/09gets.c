@@ -1,10 +1,7 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
 #include <stdio.h>
-/*
-La funcion gets toma una entrada de caracteres de la 
-entrada. Esta funcion permite introducir incluso espacios.
-Pero esta funcion es peligrosa por varias razones...
-¿por qué crees? 
-*/
 
 main()
 {
@@ -15,3 +12,10 @@ main()
   puts("El texto escrito es:");
   puts(cadena);
 }
+
+
+/*
+La funcion gets toma una entrada de caracteres de la 
+entrada. Esta funcion permite introducir incluso espacios.
+Pero esta funcion es peligrosa por varias razones...
+*/

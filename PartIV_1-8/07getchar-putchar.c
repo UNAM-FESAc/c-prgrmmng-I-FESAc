@@ -9,14 +9,6 @@ de caracteres.
  */
 
 
-/*  Ejercicios en clase 
-- Cambia int por void y observa lo que sucede.
-- Omite definir el tipo de la funcion y observa que sucede
-*** Cuando puedas usar la terminal usa: 
- gcc -Wall nombredelarchivo.c -o nombredelarchivo
- y analia lo que sucede
-*/
-
 int main()
 {
   //La funcion getchar no devuelve nada hasta presionar enter
@@ -37,3 +29,4 @@ int main()
   getchar();
   return 0;
 }
+

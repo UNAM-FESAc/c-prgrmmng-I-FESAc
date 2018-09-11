@@ -16,10 +16,3 @@ printf ("\nDiviertete mientras aprendes C.\n");
 printf("Lograras mucho.\n");
 }
 
-/*
-Ejercicio:
-Escribe un codigo en el que guarde un tipo de dato char (una cadena) 
-y un tipo de dato entero. En la salida debe mostrar un mensaje en el que 
-incluya los dos tipos de datos.
-
-*/

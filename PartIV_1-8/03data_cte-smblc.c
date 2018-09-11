@@ -24,9 +24,3 @@ printf("\n");
 return 0;
 }
 
-/*
-Ejercicio:
-Modifica el codigo para que calcule el area y el perimetro de una 
-circunferencia; y el volumen de una esfera de radio dado.
-
-*/

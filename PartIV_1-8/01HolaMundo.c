@@ -17,10 +17,3 @@ printf("Hola mundo\n");
 // (del tipo de la funcion), en este caso 0.
 return 0;
 }
-
-/*
-Ejercicio: Modifica el archivo para que imprima la misma cadena, usando 
-unos tipos de datos declarados y definidos en el codigo, como cadenas separadas. Es decir 
-"hola" y "mundo" (sin comillas).
-
-*/

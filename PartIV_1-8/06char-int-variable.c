@@ -19,8 +19,8 @@ int main(){
 char n;
 
 
-// definicion de una cadena de longitud 1B
-char nombre[1];
+// definicion de una cadena de longitud 18
+char nombre[18];
 // definicion de un entero
 int edad;
 /* la funcion printf sirve para mostrar datos en la 
@@ -40,8 +40,3 @@ printf("Su edad es: %d  años \n", edad);
 return 0;
 }
 
-/*
-TAREA: Invetiga la forma de 
-Introducir caracteres latinos como: ñ, á, é, etc.
-Implementa un ejemplo en un codigo.
-*/

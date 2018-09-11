@@ -21,10 +21,3 @@ z=x+y;
 printf("\n\n El resultado de la suma es :%d\n",z);
 return 0;
 }
-
-/*
-Ejercicio:
-Modifica el codigo para que funcione para cualquier tipo de dato, no solamente 
-entero.
-
-*/

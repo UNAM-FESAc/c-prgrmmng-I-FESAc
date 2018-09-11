@@ -1,3 +1,7 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
+
 // Como funcionan los operadores de asignacion
 // Aprenderemos como colocar datos en notacion 
 // cientifica en la salida.

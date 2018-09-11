@@ -1,15 +1,17 @@
-# Proyectos en clase
+# Prácticas de Laboratorio
 
-En esta parte encuentras algunas prácticas de laboratorio que debes realizar; además debes
-llenar el documento que aparece como [PDF](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0) y subirlo al sitio SAE en la respectiva sección. 
+En esta parte encuentras algunas prácticas de laboratorio que debes realizar 
+en clase; además debes llenar el documento que aparece como 
+[PDF](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0) 
+y subirlo al sitio SAE en la respectiva sección. 
 
-## Prácticas de Laboratorio
 
 ### Primer Práctica de Laboratorio
-1. Una empresa que fabrica vehículos desea calcular las necesidades de combustible (cantidad de
-	combustible necesario para llenar los depósitos de todos sus vehículos) para lo cual  
-	nos han facilitado este esquema de cálculo (ver abajo). Se desea crear un programa 
-	para que puedan realizar el cálculo de forma automatizada.
+1. Una empresa que fabrica vehículos desea calcular las necesidades de 
+combustible (cantidad de combustible necesario para llenar los depósitos 
+de todos sus vehículos) para lo cual nos han facilitado este esquema de 
+cálculo (ver abajo). Se desea crear un programa para que puedan realizar 
+el cálculo de forma automatizada.
 
 
  	- *Inicio*
@@ -31,5 +33,6 @@ llenar el documento que aparece como [PDF](https://www.dropbox.com/s/lr2n0dip3ps
 
 ~~~
 Tu tarea consiste en obtener la necesidad de combustible total para distintos 
-números de vehículos y de depósitos. Recuerda usar las herramientas compartidas en clase. Interactúa con la terminal.
+números de vehículos y de depósitos. Recuerda usar las herramientas compartidas 
+en clase. Interactúa con la terminal.
 ~~~
