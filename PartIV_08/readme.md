@@ -26,9 +26,9 @@ Implementa un ejemplo en un código.
 	- Cambia int por void y observa lo que sucede.
 	- Omite definir el tipo de la función y observa que sucede
 ~~~
-Cuando puedas usar la terminal usa: 
- gcc -Wall nombredelarchivo.c -o nombredelarchivo
- y analiza lo que sucede 
+Cuando puedas usar la terminal, escribe: 
+ *gcc -Wall nombredelarchivo.c -o nombredelarchivo*
+ y analiza lo que sucede. 
 ~~~
 
 8. *08puts-gets.c* Investiga cómo podemos introducir cadenas de caracteres 
