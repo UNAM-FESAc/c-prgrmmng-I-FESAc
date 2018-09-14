@@ -78,6 +78,3 @@ Puedes usar otras funciones y sus funciones de biblioteca.
 
 
 
-#Bibliografía:
-
-
