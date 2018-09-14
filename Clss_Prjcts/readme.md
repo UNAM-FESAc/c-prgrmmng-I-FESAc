@@ -15,19 +15,19 @@ el cálculo de forma automatizada.
 
 
  	- *Inicio*
-	- _Definición de vehículos_
-		- Motos = 32
-		- Todoterrenos = 11
-		- Autos tipo sedán = 21
-		- Autos deportivos = 4
-	- _Fin de definición de vehículos_
+		- _Definición de vehículos_
+			- Motos = 32
+			- Todoterrenos = 11
+			- Autos tipo sedán = 21
+			- Autos deportivos = 4
+		- _Fin de definición de vehículos_
 
-	- _Definición de capacidad de depósitos_
-		- Capacitadad de las motos = 40 l.
-		- Capacidad de los todoterreno = 65 l.
-		- Capacidad de los tipo sedan = 39 l.
-		- Capacidad de los deportivos = 45 l.
-	- _Fin de definición de capacidad de depósitos_
+		- _Definición de capacidad de depósitos_
+			- Capacitadad de las motos = 40 l.
+			- Capacidad de los todoterreno = 65 l.
+			- Capacidad de los tipo sedan = 39 l.
+			- Capacidad de los deportivos = 45 l.
+		- _Fin de definición de capacidad de depósitos_
 
 	- *Fin*
 
