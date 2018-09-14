@@ -1,4 +1,4 @@
-$x^2$
+x^2
 
 # Course: Programming I
 *By: Javier A. Orduz-Ducuara*
