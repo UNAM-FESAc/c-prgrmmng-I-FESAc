@@ -7,7 +7,7 @@ No olvides subir tu bitácora de actividades en SAE (busca el espacio reservado 
 
 ### Primer Práctica dominguera
 ~~~
-_No dejes para el domingo lo que puedes que hacer hoy_ 
+		No dejes para el domingo lo que puedes que hacer hoy.
 Proverbio de muy lejos
 ~~~
  
