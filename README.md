@@ -1,4 +1,3 @@
-$\pi$
 # Course: Programming I
 *By: Javier A. Orduz-Ducuara*
 
