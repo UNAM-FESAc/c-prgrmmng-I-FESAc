@@ -1,5 +1,4 @@
-x^2
-
+$\pi$
 # Course: Programming I
 *By: Javier A. Orduz-Ducuara*
 
