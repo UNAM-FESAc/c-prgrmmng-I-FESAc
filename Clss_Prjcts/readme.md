@@ -61,7 +61,7 @@ efectivo), tiempo de llamada, entre otras.
 
 
 4. Realizar un algoritmo para resolver una ecuación de segundo grado: 
-	$a*x*x + b*x + c =0.$
+	$ax^2 + bx + c =0.$
 
 ~~~
 	Considere que pueden haber raíces complejas.
