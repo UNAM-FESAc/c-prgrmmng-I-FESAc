@@ -1,16 +1,16 @@
 # Ejercicios en Clase
 
 1. *01HolaMundo.c* Modifica el archivo para que imprima la misma cadena, 
-usando unos tipos de datos declarados y definidos en el codigo, como 
+usando unos tipos de datos declarados y definidos en el código, como 
 cadenas separadas. Es decir "hola" y "mundo" (sin comillas).
 
-2. *02SumNum.c* Modifica el codigo para que funcione para cualquier 
+2. *02SumNum.c* Modifica el código para que funcione para cualquier 
 tipo de dato, no solamente entero. 
 
-3. *03da_cte-smblc.c* Modifica el codigo para que calcule el area y el 
-perimetro de una circunferencia; y el volumen de una esfera de radio dado.
+3. *03da_cte-smblc.c* Modifica el código para que calcule el area y el 
+perímetro de una circunferencia; y el volumen de una esfera de radio dado.
 
-4. *04sum-2-nmbrs.c* Modifica el codigo para que...
+4. *04sum-2-nmbrs.c* Modifica el código para que...
 	- tome los números desde la terminal y 
 	  que no sean necesariamente enteros.
 	- Edita el código para que reducir el número de líneas.
