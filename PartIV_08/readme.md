@@ -8,7 +8,7 @@ lista de ejercicios que aparecen en esta sección. El formato para el informe
 debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
 
-## Ejercicios en clase
+## Ejercicios
 
 1. *01HolaMundo.c* Modifica el archivo para que imprima la misma cadena, 
 usando unos tipos de datos declarados y definidos en el código, como 
