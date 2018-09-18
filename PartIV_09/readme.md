@@ -8,3 +8,9 @@ debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
 
 ## Ejercicios
+```r{}
+#include<stdio.h>
+int main(){
+printf;
+}
+```
