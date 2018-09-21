@@ -1,18 +1,9 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
+// do-while
+
 #include <stdio.h>
-
-/*
-La instruccion do-while se utiliza para generar bucles (ciclos):
-un grupo de instrucciones se ejecuta de forma repetida, hasta 
-satisfacer la condicion
-la forma general es:
-
-do 
-{
-instrucciones
-}
-while(condicion)
-
-*/
 
 
 int main(){

@@ -25,7 +25,4 @@ Operador ternario:
 El operador ? se usa de la forma C ? A : B
 y es una operacion con tres operandos. Se conoce como expresion 
 condicional. Note la similitud con el condicional if-else.
-
-Es importante que el estudiante cambie == por =, y reflexione.
-Uno es un operador de igualdad y el otro es el operador de asignacion.
 */

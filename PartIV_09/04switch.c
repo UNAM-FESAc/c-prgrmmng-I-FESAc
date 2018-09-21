@@ -1,21 +1,14 @@
-#include <stdio.h>
-#include <math.h>
-/*
-La declaración switch como una declaración de selección 
-múltiple. Esta declaración se usa para seleccionar un 
-camino de diferentes alternativas en la ejecución de 
-un programa. Funciona asociando una variable con un lista 
-de enteros y cuando encuentra la opción que se ajusta; 
-entonces la secuencia se ejecuta.
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
 
+/*
 En este programa veremos la forma general de la 
 declaración switch.
-Tu trabajo es introducir el teorema del seno y 
-del coseno en el programa; introducir dos lados 
-y un ángulo por consola, el usuario debe elegir la 
-clasificación del triángulo según sus lados, y 
-que el programa calcule el otro lado.
  */
+
+
+#include <stdio.h>
+#include <math.h>
 
 int main(void)
 {

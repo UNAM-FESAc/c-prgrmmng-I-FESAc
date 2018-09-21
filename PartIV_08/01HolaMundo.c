@@ -1,7 +1,5 @@
-/* ********************* TEXTO SIN ACENTOS *********************
-Vamos a realizar nuestro primer codigo en C.
-Las lineas que tienen // al inicio con comentarios.
-*/
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
 
 // Cargamos una biblioteca estandar
 #include <stdio.h>

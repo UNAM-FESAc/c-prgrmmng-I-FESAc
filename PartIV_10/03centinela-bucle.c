@@ -1,4 +1,6 @@
-#include <stdio.h>
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos.
+
 
 /*
 Se requiere un valor centinela como ultimo dato a 
@@ -7,10 +9,14 @@ no entre en un ciclo infinito.
 */
 
 
+#include <stdio.h>
+
+
+
 int main(){
 
 const int centinela = -1;
-int nota, cuenta, suma;
+int nota, cuenta, suma=0;
 
 printf("\vPara salir escriba: -1\n\v");
 printf("\vintroduzca primera nota ");
@@ -22,8 +28,14 @@ while (nota != centinela)
 	suma += nota;
 	printf("Introduzca la siguiente nota ");
 	scanf("%d", &nota);
+
+if(nota == centinela){
+printf("Introdujo %i datos. La suma total es = %i.\n", cuenta, suma);
+	}
 }
 
 puts("final");
+
+
 return 0;
 }

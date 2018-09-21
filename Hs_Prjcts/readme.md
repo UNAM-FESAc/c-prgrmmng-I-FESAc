@@ -5,10 +5,14 @@ No olvides subir tu bitácora de actividades en SAE (busca el espacio reservado 
 
 ## Prácticas en Casa
 
+~~~
+	Use el formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
+~~~
+
 ### Primer Práctica dominguera
 ~~~
 		No dejes para el domingo lo que puedes que hacer hoy.
-		Proverbio de muy lejos
+		_Proverbio de muy lejos_
 ~~~
  
 1.	~~~

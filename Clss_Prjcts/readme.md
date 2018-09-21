@@ -1,10 +1,14 @@
 # Prácticas de Laboratorio
 
-En esta parte encuentras algunas prácticas de laboratorio que debes realizar 
-en clase; además debes llenar el documento que aparece como 
-[PDF](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0) 
-y subirlo al sitio SAE en la respectiva sección. 
+Debes realizar un informe de laboratorio que contenga información sobre la 
+lista de ejercicios que aparecen en esta sección. El formato para el informe 
+debe seguir el que se muestra en el siguiente archivo:
+[PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
 
+~~~
+	Es posible que en algunas sesiones se use el 
+	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
+~~~
 
 ### Primer Práctica de Laboratorio
 1. Una empresa que fabrica vehículos desea calcular las necesidades de 

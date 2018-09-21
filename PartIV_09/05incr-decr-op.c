@@ -1,7 +1,5 @@
-// Como funcionan los operadores de incremento y
-// reduccion (decrement)
-// El operador ++ o -- incrementa (reduce) 
-// el valor de la variable en 1
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
 
 
 /*
@@ -57,3 +55,8 @@ else
 
     return 0;
 }
+
+// El operador ++ o -- incrementa (reduce) 
+// el valor de la variable en 1
+
+

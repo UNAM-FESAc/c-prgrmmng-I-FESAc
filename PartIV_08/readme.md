@@ -8,7 +8,12 @@ lista de ejercicios que aparecen en esta sección. El formato para el informe
 debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
 
-## Ejercicios
+~~~
+	Es posible que en algunas sesiones se use el 
+	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
+~~~
+
+## Enunciados
 
 1. *01HolaMundo.c* Modifica el archivo para que imprima la misma cadena, 
 usando unos tipos de datos declarados y definidos en el código, como 

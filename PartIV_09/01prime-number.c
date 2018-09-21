@@ -1,8 +1,7 @@
-/*
-Este programa introduce el concepto de los condicionales.
-TAREA EN CLASE: 
-Realizar un progama que pida un numero y responda si es par o impar.
-*/
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
+// Este programa introduce el concepto de los condicionales.
 
 #include <stdio.h>
 

@@ -1,13 +1,11 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
 #include <stdio.h>
 
 /*
 En este programa se introducen diferentes 
 condicionales. 
-La primer parte de este trabajo en clase es 
-realizar un pseudocodigo y dar una salida 
-legible para aquel usuario que tenga el 
-archivo ejecutable.
-
  */
 
 int main(void)
