@@ -12,7 +12,7 @@ debe seguir el que se muestra en el siguiente archivo:
 	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
 ~~~
 
-## Ejercicios
+## Enunciados
 
 1. *01prime-number.c* Realizar un programa que pida un número y responda 
 si es par o impar.
@@ -41,74 +41,11 @@ aquel usuario que tenga el archivo ejecutable.
 
 	```
 
-4. *04ques-ope.c* 
-	a. El estudiante debe cambiar == por =, y reflexionar sobre lo que sucede.
-
-	b. Discute con tus compañeros si la afirmación es correcta:
-		i.[X] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de identificadores y cuando encuentra la opción que se ajusta; 
-		entonces la secuencia se ejecuta.
-		ii.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración no se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de identificadores y cuando encuentra la opción que se ajusta; 
-		entonces la secuencia se ejecuta.
-		iii.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de datos aleatorios y cuando encuentra la opción que se desajusta; 
-		entonces la secuencia se ejecuta.
-		iv.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de enteros y cuando encuentra la opción que se no ajusta; 
-		entonces la secuencia se ejecuta.
-		iv.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de identificadores y cuando encuentra la opción que se ajusta; 
-		entonces la secuencia no se ejecuta.
-	c. Introduce el teorema del seno y  del coseno en el programa 
-	y que el programa calcule el otro lado. 
-	En caso necesario, el usuario debe introducir dos lados y un ángulo 
-	por consola, y elegir la clasificación del triángulo según sus lados. 
 
 
 
-```C
-	# Identificador puede ser de diferente tipo. Prueba cuáles...
-	switch(Identificador){
-	case 1:
-	# Instrucciones;
-	# ...y casos n-1
-	break;
-	case n:
-	break;
-	default: 
-	# Instrucciones por defecto;
-	break;	
-	}
 
-```
-
-	
-
-
-~~~
-	|| significa o y && significa y. Son el equivalente en las conjunciones 
-	gramaticales (*y* y *o*).
-~~~
-
-
-
-5. *05incr-decr-op.c* Reaclice un bitácora en la que de describa cómo funcionan 
+4. *05incr-decr-op.c* Reaclice un bitácora en la que de describa cómo funcionan 
 los operadores de incremento y reducción (decrement).
 
 # Bibliografía

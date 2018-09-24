@@ -3,17 +3,16 @@
 En esta parte encuentras algunas prácticas de laboratorio que debes realizar en casa.
 No olvides subir tu bitácora de actividades en SAE (busca el espacio reservado para tal fin).
 
-## Prácticas en Casa
 
-~~~
-	Use el formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
-~~~
-
-### Primer Práctica dominguera
 ~~~
 		No dejes para el domingo lo que puedes que hacer hoy.
 		_Proverbio de muy lejos_
 ~~~
+
+
+Use el formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
+
+### Práctica dominguera
  
 1.	~~~
 	Para el archivo (código fuente) de números primos debes implementar 
@@ -24,7 +23,7 @@ No olvides subir tu bitácora de actividades en SAE (busca el espacio reservado 
 	Descarga el siguiente código y observa su salida. Descrubre qué sucede
 	si cambias los números que se encuentran entre los paréntesis.
 	~~~
-
+	```C
 	#include<stdio.h>
 
 	int main(){
@@ -36,6 +35,7 @@ No olvides subir tu bitácora de actividades en SAE (busca el espacio reservado 
 	puts(&palabras[11]);
 	return 0;
 	}
+	```
 
 3.	~~~
 	Escribe un programa que muestre tu apellido con algún caracter. Debes implementar 
