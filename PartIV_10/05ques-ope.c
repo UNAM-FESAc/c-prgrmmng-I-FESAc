@@ -1,6 +1,8 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
+// El operador ternario
+
 #include <stdio.h>
 
 
@@ -18,11 +20,4 @@ return 0;
 }
 
 
-/*
 
-Operador ternario:
-
-El operador ? se usa de la forma C ? A : B
-y es una operacion con tres operandos. Se conoce como expresion 
-condicional. Note la similitud con el condicional if-else.
-*/

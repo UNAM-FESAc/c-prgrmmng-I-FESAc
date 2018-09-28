@@ -12,7 +12,7 @@ debe seguir el que se muestra en el siguiente archivo:
 	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
 ~~~
 
-## Ejercicios
+## Enunciados
 
 1. *01while.c* Discute con tus compañeros si la afirmación es correcta:
 	
@@ -36,34 +36,30 @@ debe seguir el que se muestra en el siguiente archivo:
 	while(condicion){instrucciones}
 ~~~
 
-2. *02do-while.c* Observa cuál es la forma correcta de un do-while
+2. *02do-while.c* Observa y discute sobre cuál es la forma correcta de un do-while
 
-	- [ ]
-	```C 
+	- [ ] ```C 
 	do 
 	{
 	# instrucciones
 	}
 	while(condicion)
 	```
-	- [X]
-	```C 
+	- [X] ```C 
 	do 
 	{
 	# instrucciones;
 	}
 	while(condicion)
 	```
-	- [ ]
-	```C 
+	- [ ] ```C 
 	do 
 	{
 	# instrucciones
 	}
 	while(condicion;)
 	```
-	- [ ]
-	```C 
+	- [ ] ```C 
 	do; 
 	{
 	# instrucciones
@@ -97,46 +93,10 @@ debe seguir el que se muestra en el siguiente archivo:
 	d.[ ] es un parámetro de iteración.
 	e.[ ] es una variables.
 
-4. *04ques-ope.c* 
+5. *05ques-ope.c* 
 	a. El estudiante debe cambiar == por =, y reflexionar sobre lo que sucede.
 
-	b. Discute con tus compañeros si la afirmación es correcta:
-		i.[X] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de identificadores y cuando encuentra la opción que se ajusta; 
-		entonces la secuencia se ejecuta.
-
-		ii.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración no se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de identificadores y cuando encuentra la opción que se ajusta; 
-		entonces la secuencia se ejecuta.
-
-		iii.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de datos aleatorios y cuando encuentra la opción que se desajusta; 
-		entonces la secuencia se ejecuta.
-
-		iv.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de enteros y cuando encuentra la opción que se no ajusta; 
-		entonces la secuencia se ejecuta.
-
-		iv.[ ] La declaración switch como una declaración de selección 
-		múltiple. Esta declaración se usa para seleccionar un 
-		camino de diferentes alternativas en la ejecución de 
-		un programa. Funciona asociando una variable con un lista 
-		de identificadores y cuando encuentra la opción que se ajusta; 
-		entonces la secuencia no se ejecuta.
-
-	c. Introduce el teorema del seno y  del coseno en el programa 
+	b. Introduce el teorema del seno y  del coseno en el programa 
 	y que el programa calcule el otro lado. 
 	En caso necesario, el usuario debe introducir dos lados y un ángulo 
 	por consola, y elegir la clasificación del triángulo según sus lados. 
@@ -159,12 +119,107 @@ debe seguir el que se muestra en el siguiente archivo:
 
 ```
 
+	c. Escriba dos programas en los que implemente un if-else y el otro con 
+	el operador ternario.
+
+~~~
+	El operador ternario se usa de la forma A ? B : C
+	y es una operacion con tres operandos. Se conoce como expresion 
+	condicional. Note la similitud con el condicional if-else.
+~~~
 	
+
+6. *06if_anidado.c* 
+	a. Realiza un programa que  informe si el caracter introducido es o no un número.
+
+
+	b. Discute si la respuesta elegida es correcta:
+	-[ ] 
+	```C
+	if(condicion1) 
+	{
+   // las sentencias que se ejecutaran si la condicion1
+   // es cierta
+	}
+	else if(condicion2) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //es falsa y la expresion2 es verdadera
+	}
+	else if(condicion3) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //y la expresion2 son verdaderas, y la condicion3 es 
+   //verdadera
+	}
+	...
+	else 
+	{
+   //si todas las declaraciones anteriores son falsas
+	}
+	```
+	-[ ] 
+	```C
+	if(condicion1) 
+	{
+   // las sentencias que se ejecutaran si la condicion1
+   // es cierta
+	}
+	else if(condicion2) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //es falsa y la expresion2 es verdadera
+	}
+	else if(condicion3) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //y la expresion2 son falsas, y la condicion3 es 
+   //verdadera
+	}
+	...
+	else 
+	{
+   //si todas las declaraciones anteriores son verdaderas
+	}
+	```
+
+	-[X] 
+	```C
+	if(condicion1) 
+	{
+   // las sentencias que se ejecutaran si la condicion1
+   // es cierta
+	}
+	else if(condicion2) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //es falsa y la expresion2 es verdadera
+	}
+	else if(condicion3) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //y la expresion2 son falsas, y la condicion3 es 
+   //verdadera
+	}
+	...
+	else 
+	{
+   //si todas las declaraciones anteriores son falsas
+	}
+	```
+
+7. *07if_bucle.c* Cambia break por continue y observa lo que sucede.
+
+
+
+## Referencias
+1. [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
+
+
 
 
 ~~~
 	|| significa o y && significa y. Son el equivalente en las conjunciones 
 	gramaticales (*y* y *o*).
 ~~~
-
 
