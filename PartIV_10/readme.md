@@ -38,31 +38,35 @@ debe seguir el que se muestra en el siguiente archivo:
 
 2. *02do-while.c* Observa y discute sobre cuál es la forma correcta de un do-while
 
-	- [ ] ```C 
+	- [ ] 
+	```C 
 	do 
 	{
-	# instrucciones
+	// instrucciones
 	}
 	while(condicion)
 	```
-	- [X] ```C 
+	- [X] 
+	```C 
 	do 
 	{
-	# instrucciones;
+	// instrucciones;
 	}
 	while(condicion)
 	```
-	- [ ] ```C 
+	- [ ] 
+	```C 
 	do 
 	{
-	# instrucciones
+	// instrucciones
 	}
 	while(condicion;)
 	```
-	- [ ] ```C 
+	- [ ] 
+	```C 
 	do; 
 	{
-	# instrucciones
+	// instrucciones
 	}
 	while(condicion)
 	```
@@ -129,7 +133,8 @@ debe seguir el que se muestra en el siguiente archivo:
 ~~~
 	
 
-6. *06if_anidado.c* 
+6. *06if_anidado.c*
+
 	a. Realiza un programa que  informe si el caracter introducido es o no un número.
 
 
@@ -213,7 +218,7 @@ debe seguir el que se muestra en el siguiente archivo:
 
 
 ## Referencias
-1. [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
+1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
 
 
 
