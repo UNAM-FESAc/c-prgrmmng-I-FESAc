@@ -216,6 +216,19 @@ debe seguir el que se muestra en el siguiente archivo:
 7. *07if_bucle.c* Cambia break por continue y observa lo que sucede.
 
 
+8. *08if-anidado* Descubre cómo operan los símbolos && y ||.
+
+
+>	|| significa o y && significa y. Son el equivalente en las conjunciones 
+>	gramaticales (_y_ y _o_).
+
+
+
+
+	
+
+
+
 
 ## Referencias
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
@@ -223,8 +236,4 @@ debe seguir el que se muestra en el siguiente archivo:
 
 
 
-~~~
-	|| significa o y && significa y. Son el equivalente en las conjunciones 
-	gramaticales (*y* y *o*).
-~~~
 
