@@ -43,7 +43,7 @@ Use el formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/b
 	*   *  * *    *   *  *   *    *
 	*   *  *  *   *  *   *   *   *
 	*****  *   *  ***    *****  *****
-	
+~~~
 
 4.	Escriba un código que tome una letra (mayúscula o minúscula) y le indique si 
 	es una vocal, en tal caso que escriba en pantalla si es vocal abierta o cerrada. 
