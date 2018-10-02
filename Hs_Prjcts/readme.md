@@ -37,7 +37,7 @@ Use el formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/b
 
 3.	Escribe un programa que muestre tu apellido con algún caracter. Debes implementar 
 	secuencias de escape; Por ejemplo, la salida para mi apellido es:
-
+~~~
 	*****  *****  ****   *   *  *****
 	*   *  *   *  *   *  *   *     *
 	*   *  * *    *   *  *   *    *
