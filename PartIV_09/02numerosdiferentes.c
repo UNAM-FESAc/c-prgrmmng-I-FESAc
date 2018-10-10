@@ -25,45 +25,45 @@ int main(void)
     {
        if (num2<num3)
        {
-        printf("%d",num1);
-        printf("%d",num2);
-        printf("%d",num3);
+        printf("%d\n",num1);
+        printf("%d\n",num2);
+        printf("%d\n",num3);
        }
        else
        {
-        printf("%d",num1);
-        printf("%d",num3);
-        printf("%d",num2);
+        printf("%d\n",num1);
+        printf("%d\n",num3);
+        printf("%d\n",num2);
        }
     }
     else if (num2<num1 && num2<num3)
     {
        if (num1<num3)
        {
-        printf("%d",num2);
-        printf("%d",num1);
-        printf("%d",num3);
+        printf("%d\n",num2);
+        printf("%d\n",num1);
+        printf("%d\n",num3);
        }
        else
        {
-        printf("%d",num2);
-        printf("%d",num3);
-        printf("%d",num1);
+        printf("%d\n",num2);
+        printf("%d\n",num3);
+        printf("%d\n",num1);
        }
     }
     else if (num3<num1 && num3<num2)
     {
        if (num1<num2)
        {
-        printf("%d",num3);
-        printf("%d",num1);
-        printf("%d",num2);
+        printf("%d\n",num3);
+        printf("%d\n",num1);
+        printf("%d\n",num2);
        }
        else
        {
-        printf("%d",num3);
-        printf("%d",num2);
-        printf("%d",num1);
+        printf("%d\n",num3);
+        printf("%d\n",num2);
+        printf("%d\n",num1);
        }
     }
         printf("\n");

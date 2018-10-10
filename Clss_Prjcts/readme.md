@@ -79,5 +79,12 @@ inversas.
 Puedes usar otras funciones y sus funciones de biblioteca.
 ~~~
 
+6. Escribe un programa que incluya la función ```LaTeX f(x) = 2 x^3 + 4 x^2 - 10``` y que 
+imprima en la salida: x     f()     f'(x)     f''(x). Donde las comillas se refieren a las 
+derivadas. 
 
+
+7. Escribe un programa que incluya la función ```LaTeX f(x, y) = 5 x^3 y + 2 y^2 x - 3 x y - x -y``` 
+y que imprima en la salida: ```LaTeX x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
+subíndice se refieren a las derivadas.
 

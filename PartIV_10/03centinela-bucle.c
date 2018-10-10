@@ -19,14 +19,14 @@ const int centinela = -1;
 int nota, cuenta, suma=0;
 
 printf("\vPara salir escriba: -1\n\v");
-printf("\vintroduzca primera nota ");
+printf("\vintroduzca primera calificacion ");
 scanf("%d", &nota);
 
 while (nota != centinela)
 {
  	cuenta++;
 	suma += nota;
-	printf("Introduzca la siguiente nota ");
+	printf("Introduzca la siguiente calificacion ");
 	scanf("%d", &nota);
 
 if(nota == centinela){
