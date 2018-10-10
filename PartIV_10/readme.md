@@ -304,7 +304,7 @@ P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
+P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
 - Segundo algoritmo
 
@@ -315,7 +315,7 @@ P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
+P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
 - Tercer algoritmo
 
@@ -326,7 +326,7 @@ P2	|       |i = 0	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
+P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
 - Cuarto algoritmo
 
@@ -337,7 +337,7 @@ P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 1	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
+P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
 ## Referencias
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
