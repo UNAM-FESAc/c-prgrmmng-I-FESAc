@@ -243,8 +243,9 @@ debe seguir el que se muestra en el siguiente archivo:
 
 	- Modifica el archivo para que obtengas (usa el operador incremento):
 
+
 |Resultados|
-|----------1
+|----------|
 | 2  | 3   |
 | 5  | 6   |
 | 8  | 9   |
@@ -253,7 +254,8 @@ debe seguir el que se muestra en el siguiente archivo:
 |17  |18   |
 |20  |21   |
 
-	Discute tu solución.
+
+Discute tu solución.
 
 
 
@@ -292,7 +294,7 @@ Producto	|	Suma	|Resta		|División
 	corresponde con el código que se muestra en el archivo mencionado.
 	<!--- La respuesta correcta es la primera--->
 
-	- Primero algoritmo
+- Primero algoritmo
 
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
@@ -302,9 +304,9 @@ P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
+P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
 
-	- Segundo algoritmo
+- Segundo algoritmo
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
 --------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
@@ -313,9 +315,9 @@ P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
+P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
 
-	- Tercer algoritmo
+- Tercer algoritmo
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
 --------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
@@ -324,9 +326,9 @@ P2	|       |i = 0	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
+P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
 
-	- Cuarto algoritmo
+- Cuarto algoritmo
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
 --------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
@@ -335,7 +337,7 @@ P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|
 P3	| j = 1	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
-P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
+P6	|	|	|	|	|Bucle i	|	|	| 	|FIN	
 
 ## Referencias
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
