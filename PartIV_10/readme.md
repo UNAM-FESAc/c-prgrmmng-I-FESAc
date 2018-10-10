@@ -223,16 +223,16 @@ debe seguir el que se muestra en el siguiente archivo:
 
 8. *08for_bucle* 
 	- Modifica el código para que la salida sea:
-	+----------------------------------------+
-	|                Resultados              |
-	+----------------------------------------+
-	| i =     0 | i*i =     0 | i*i*i =     0|
-	| i =     1 | i*i =     1 | i*i*i =     1|
-	| i =     2 | i*i =     4 | i*i*i =     8|
-	| i =     3 | i*i =     9 | i*i*i =    27|
-	| i =     4 | i*i =    16 | i*i*i =    64|
-	| i =     5 | i*i =    25 | i*i*i =   125|
-	+-------------+-------+--------+---------+
+
+|                Resultados              |
+|----------------------------------------|
+| i =     0 | i*i =     0 | i*i*i =     0|
+| i =     1 | i*i =     1 | i*i*i =     1|
+| i =     2 | i*i =     4 | i*i*i =     8|
+| i =     3 | i*i =     9 | i*i*i =    27|
+| i =     4 | i*i =    16 | i*i*i =    64|
+| i =     5 | i*i =    25 | i*i*i =   125|
+
 	- Haz que los valores inicial y final se adquieran a traves 
 	de la pantalla.
 
@@ -242,50 +242,52 @@ debe seguir el que se muestra en el siguiente archivo:
 	Discute con tus compañeros sobre los resultados obtenidos. Explíca.
 
 	- Modifica el archivo para que obtengas (usa el operador incremento):
-	+----------+
-	|Resultados|
-	+----------+
-	| 2  | 3   |
-  	| 5  | 6   |
-  	| 8  | 9   |
- 	|11  |12   |
- 	|14  |15   |
- 	|17  |18   |
- 	|20  |21   |
-	+----------+
+
+|Resultados|
+|----------1
+| 2  | 3   |
+| 5  | 6   |
+| 8  | 9   |
+|11  |12   |
+|14  |15   |
+|17  |18   |
+|20  |21   |
+
 	Discute tu solución.
 
 
 
 10.*10for_bucle.c* Edita el código...
 	- para que la salida sea parecida a (usa secuencias de escape):
-	+-------------+
-	| Resultados  |
-	+-------------+
-	|4 x -5 =  -20|
- 	|4 x -4 =  -16| 
- 	|4 x -3 =  -12| 
- 	|4 x -2 =   -8| 
- 	|4 x -1 =   -4| 
- 	|4 x  0 =    0| 
- 	|4 x  1 =    4| 
- 	|4 x  2 =    8| 
- 	|4 x  3 =   12| 
- 	|4 x  4 =   16| 
- 	|4 x  5 =   20|
-	+-------------+ 
+
+| Resultados  |
+|-------------|
+|4 x -5 =  -20|
+|4 x -4 =  -16| 
+|4 x -3 =  -12| 
+|4 x -2 =   -8| 
+|4 x -1 =   -4| 
+|4 x  0 =    0| 
+|4 x  1 =    4| 
+|4 x  2 =    8| 
+|4 x  3 =   12| 
+|4 x  4 =   16| 
+|4 x  5 =   20|
+
 	- Implementa un switch para que el usuario elija cuál tabla de multiplicar 
 	desea ver en pantalla (también puedes usar un for).
 	- Modifica el código para la salida se muestre de la siguiente forma (ejemplo):
-	+------------------------------------------------------------------------------------+
-	| 				Resultados  					     |
-	+------------------------------------------------------------------------------------+
- 	|6 x  1 =  6.0| 	6 +  1 =  7.0| 		 6 -  1 = -5.0| 	 6 /  1 =  0.2| 
- 	|6 x  2 = 12.0| 	6 +  2 =  8.0| 		 6 -  2 = -4.0| 	 6 /  2 =  0.3| 
- 	|6 x  3 = 18.0|		6 +  3 =  9.0| 		 6 -  3 = -3.0| 	 6 /  3 =  0.5| 
- 	|6 x  4 = 24.0| 	6 +  4 = 10.0| 		 6 -  4 = -2.0| 	 6 /  4 =  0.7| 
- 	|6 x  5 = 30.0| 	6 +  5 = 11.0| 		 6 -  5 = -1.0| 	 6 /  5 =  0.8|
-	+------------------------------------------------------------------------------------+
+
+	
+Producto	|	Suma	|Resta		|División	
+----------------|---------------|---------------|---------------
+6 x  1 =  6.0	| 6 +  1 =  7.0	| 6 -  1 = -5.0	| 6 /  1 =  0.2
+6 x  2 = 12.0	| 6 +  2 =  8.0	| 6 -  2 = -4.0	| 6 /  2 =  0.3
+6 x  3 = 18.0	|6 +  3 =  9.0	| 6 -  3 = -3.0	| 6 /  3 =  0.5
+6 x  4 = 24.0	| 6 +  4 = 10.0	| 6 -  4 = -2.0	| 6 /  4 =  0.7
+6 x  5 = 30.0	| 6 +  5 = 11.0	| 6 -  5 = -1.0	| 6 /  5 =  0.8
+
+
 11. *11for-anidado.c* Revisa detalladamente la siguiente información y confirma cuál aseveración 
 	corresponde con el código que se muestra en el archivo mencionado.
 	<!--- La respuesta correcta es la primera--->
@@ -293,40 +295,47 @@ debe seguir el que se muestra en el siguiente archivo:
 	- Primero algoritmo
 
 
-P1	|			n=0
-P2	|     	i = 1				| 	i = 2	
+Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
+--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+P1	|	|	|	|n=0	|	|	|	|	|	|	
+P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|	
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
-P5	|		Bucle j 		|	Bucle j		|	|	
-P6	|				Bucle i			  		|FIN	
+P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
+P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
 
 	- Segundo algoritmo
 
-P1	|			n=1
-P2	|     	i = 1				| 	i = 2
+Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
+--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+P1	|	|	|	|n=1	|	|	|	|	|	|	
+P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|	
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
-P5	|		Bucle j 		|	Bucle j		|	|	
-P6	|				Bucle i			  		|FIN	
+P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
+P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
 
 	- Tercer algoritmo
 
-P1	|			n=0
-P2	|     	i = 1				| 	i = -2
+Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
+--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+P1	|	|	|	|n=0	|	|	|	|	|	|	
+P2	|       |i = 0	|	|	|	| 	|i = 2	|	|	|	
 P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
-P5	|		Bucle j 		|	Bucle j		|	|	
-P6	|				Bucle i			  		|FIN	
+P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
+P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
 
 	- Cuarto algoritmo
 
-P1	|			n=0
-P2	|     	i = 1				| 	i = 2
-P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
-P4	|	|n = 6	|	|n = 10	| n = 15|	|n = 19	| 	|n = 24	| n = 27
-P5	|		Bucle j 		|	Bucle j		|	|	
-P6	|				Bucle i			  		|FIN	
-
+Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
+--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
+P1	|	|	|	|n=0	|	|	|	|	|	|	
+P2	|       |i = 1	|	|	|	| 	|i = 2	|	|	|	
+P3	| j = 1	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
+P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
+P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
+P6	|	|	|	|	Bucle i	|	|	| 	|	|FIN	
 
 ## Referencias
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
@@ -334,4 +343,15 @@ P6	|				Bucle i			  		|FIN
 
 
 
+<!---
+|V|V|V|V|V|V|V|V|V|C
+---|---|---|---|---|---|---|---|---|---|---
+P1	|	|n=0	|	|	|	|	|	|	|
+P2	| i = 1	|	|	|	|	| i = 2	|	|	|	|			
+P3	| j = 5	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1 
+P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
+P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
+P6	|	|	|	|	|Bucle i|	|	|	|  	|	|FIN	
+
+--->
 
