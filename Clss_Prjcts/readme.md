@@ -60,7 +60,8 @@ Debes implementar un condicional
 ~~~
 Permite que tu programa tenga el tiempo de una llamada y el país como parámetros de entrada. 
 Puedes implementar, otra información; por ejemplo, método de pago, total y cambio (en caso de 
-efectivo), tiempo de llamada, entre otras.
+efectivo), tiempo de llamada, entre otras. Usa secuencia de escape, switch, if, if-else, if-else-if; 
+y demás conceptos discutidos en clase.
 ~~~
 
 
@@ -79,12 +80,19 @@ inversas.
 Puedes usar otras funciones y sus funciones de biblioteca.
 ~~~
 
-6. Escribe un programa que incluya la función ```LaTeX f(x) = 2 x^3 + 4 x^2 - 10``` y que 
+6. Escribe un programa que incluya la función ``` f(x) = 2 x^3 + 4 x^2 - 10``` y que 
 imprima en la salida: x     f()     f'(x)     f''(x). Donde las comillas se refieren a las 
 derivadas. 
 
 
-7. Escribe un programa que incluya la función ```LaTeX f(x, y) = 5 x^3 y + 2 y^2 x - 3 x y - x -y``` 
+7. Escribe un programa que incluya la función ``` f(x, y) = 5 x^3 y + 2 y^2 x - 3 x y - x - y``` 
 y que imprima en la salida: ```LaTeX x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
 subíndice se refieren a las derivadas.
+
+
+8. Escribe un programa que incluya la función ``` f(x, y) = sen(x) cos(y)+cos(y)-sen(y)``` 
+y que imprima en la salida: ```LaTeX x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
+subíndice se refieren a las derivadas.
+
+
 
