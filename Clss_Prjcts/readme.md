@@ -86,12 +86,12 @@ derivadas.
 
 
 7. Escribe un programa que incluya la función ``` f(x, y) = 5 x^3 y + 2 y^2 x - 3 x y - x - y``` 
-y que imprima en la salida: ```LaTeX x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
+y que imprima en la salida: ```x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
 subíndice se refieren a las derivadas.
 
 
 8. Escribe un programa que incluya la función ``` f(x, y) = sen(x) cos(y)+cos(y)-sen(y)``` 
-y que imprima en la salida: ```LaTeX x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
+y que imprima en la salida: ```x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
 subíndice se refieren a las derivadas.
 
 
