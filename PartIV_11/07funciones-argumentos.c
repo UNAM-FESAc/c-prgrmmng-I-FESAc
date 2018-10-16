@@ -1,10 +1,5 @@
-/*
-Veamos un ejemplo de un macro con argumentos de varias lineas
-
-
-Calculemos el volumen de un cono.
-*/
-
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
 
 
 #include <stdio.h>
@@ -27,9 +22,4 @@ printf("\nEl volumen del cono es: %.2f cm3\n\v", volumen);
 
 return 0;
 }
-
-/*
-El ejercicio del estudiante consiste en realizar calculos para tres diferentes volúmenes 
-como función en línea y como función generada por el usuario.
-*/
 

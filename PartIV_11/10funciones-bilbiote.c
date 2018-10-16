@@ -1,8 +1,5 @@
-/*
-Programa para implementar numeros (pseudo) aleatorios.
-Usaremos una semilla como un entero que nos ayuda a 
-obtener diferentes valores de nuestros numeros aleatorios.
-*/
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
 
 
 

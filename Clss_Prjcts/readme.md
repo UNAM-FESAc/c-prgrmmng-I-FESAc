@@ -94,5 +94,8 @@ subíndice se refieren a las derivadas.
 y que imprima en la salida: ```x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
 subíndice se refieren a las derivadas.
 
+9. Realiza un programa que use funciones (subrutinas) para obtener la media aritmética 
+	de un conjunto de N valores.
+
 
 
