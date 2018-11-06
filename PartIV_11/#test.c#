@@ -1,0 +1,27 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+int f(int);
+int main(){
+  int i,x=1,y=1;
+  float med1=0,med2=0;
+  srand(time(NULL));
+  for (i=0;i<=5;i++)
+    {
+      x=rand()%10;
+      y=f(x);
+      med1=med1+x;
+      med2=med2+y;
+      printf("x=%d , y=%d \n",x,y);
+}
+  med1=med1/5;
+  med2=med2/5;
+  printf("la media de x es %f \n la media de y es %f \n",med1,med2);
+return 0;
+}
+int f(int a)
+{
+  return a*a;
+}

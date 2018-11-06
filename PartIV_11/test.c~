@@ -4,11 +4,20 @@
 #include <stdlib.h>
 #include <time.h>
 int main(){
-int i;
+  int i, j;
+
 srand(time(NULL));
 for (i=1; i<=4; i++){
 printf("%d\n", rand()%101); 
 }
+
+printf("\t\tOtra linea\n"); 
+
+srand(time(NULL)+1);
+for (j=1; j<=4; j++){
+printf("%d\n", rand()%101); 
+}
+
 return 0;
 }
 

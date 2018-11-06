@@ -43,8 +43,20 @@ debe seguir el que se muestra en el siguiente archivo:
 	- Crear un cuestionario de 10 preguntas. Al final debe mostrarse un párrafo 
 	con las respuestas. Puedes usar diferentes funciones de biblioteca.
 
-7. *09funciones-bibliote.c*, *10funciones-bibliote.c* y  *11funciones-bibliote.c* 
+7. *09funciones-bibliote.c*, *10funciones-bibliote.c*, *11funciones-bibliote.c* y 
+	*12funciones-bibliote.c* 
 	Crea los siguientes programas:
 	- Investiga e implementa una funcion srand(semilla) y realiza 
 	un programa que use funciones (de biblioteca, implementadas por el usuario y matemáticas) 
 	para obtener la media aritmética. x_i f(x_i) y la x_media_aritmética.
+
+~~~
+La funcion fgets puede implementarse para tomar una entrada de caracteres de la 
+entrada. En este ejemplo, cadena es el nombre del arreglo de caracteres, 
+sizeof cadena es la cantidad de texto en la entrada más uno; 
+y stdin es el nombre del dispositivo estandar de entrada.
+~~~
+
+
+8. *12paso-copia.c*, *13paso-referencia.c* y *14uso-apuntadores.c* Realiza un pseudocódigo de 
+	cada uno de los programas de este enunciado.

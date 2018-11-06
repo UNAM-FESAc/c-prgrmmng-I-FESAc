@@ -10,7 +10,7 @@
 float x, y, as;
 
 
-float main(){
+int main(){
 
 printf("Dame dos numeros ");
 scanf("%f %f",&x, &y);
