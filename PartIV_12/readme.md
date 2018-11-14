@@ -67,7 +67,11 @@ Reproduce los resultados de [Wikipedia](https://es.wikipedia.org/wiki/Desviaci%C
 	- El concepto: concatenación.
 	- Explíque las funciones de biblioteca: *strcpy* y *strcat*.
 
+8. *08array.c* Cambie los índices del arreglo para que imprima otra salida.
 
+
+9. *09array.c* Modifique el código para que imprima en la salida: el bloque de departamentos 
+	con el número de habitantes en cada uno de ellos.
 <!---
 En este archivo implementamos la funcion de biblioteca 
 

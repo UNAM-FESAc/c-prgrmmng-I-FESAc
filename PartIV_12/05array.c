@@ -1,28 +1,20 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
-
 #include <stdio.h>
 int n;
 int promedio();
 
-
 int main()
 {
-
-
   printf("Ingrese la cantidad de numeros que desea introducir: ");
   scanf("%i", &n);
   promedio(n);
-
   return 0;
 }
 
-
-
-
 int promedio(int x)
 {
-  	int i, marks[n], sum=0; 
+  	int i, marks[n], sum = 0; 
 	float prom;
 
   for(i=0; i<n; ++i)
