@@ -80,18 +80,18 @@ inversas.
 Puedes usar otras funciones y sus funciones de biblioteca.
 ~~~
 
-6. Escribe un programa que incluya la función ``` f(x) = 2 x^3 + 4 x^2 - 10``` y que 
+6. Escribe un programa que incluya la función f(x) = 2 x^3 + 4 x^2 - 10 y que 
 imprima en la salida: x     f()     f'(x)     f''(x). Donde las comillas se refieren a las 
 derivadas. 
 
 
-7. Escribe un programa que incluya la función ``` f(x, y) = 5 x^3 y + 2 y^2 x - 3 x y - x - y``` 
+7. Escribe un programa que incluya la función  f(x, y) = 5 x^3 y + 2 y^2 x - 3 x y - x - y
 y que imprima en la salida: ```x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
 subíndice se refieren a las derivadas.
 
 
-8. Escribe un programa que incluya la función ``` f(x, y) = sen(x) cos(y)+cos(y)-sen(y)``` 
-y que imprima en la salida: ```x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
+8. Escribe un programa que incluya la función f(x, y) = sen(x) cos(y)+cos(y)-sen(y)
+y que imprima en la salida: x  y  f(x, y)  f_x(x, y)  f_y(x, y)  f_{xy}(x, y). Donde el 
 subíndice se refieren a las derivadas.
 
 9. Realiza un programa que use funciones (subrutinas) para obtener la media aritmética 

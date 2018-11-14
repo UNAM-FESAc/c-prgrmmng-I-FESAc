@@ -91,7 +91,7 @@ destino= es el arreglo de destino, el cual contendra la
 fuente= es la cadena que sera agregada 
 --->
 
-##Referencias
+## Referencias
 
 1. Ir [:link:](https://www.programiz.com/c-programming/c-multi-dimensional-arrays)
 
