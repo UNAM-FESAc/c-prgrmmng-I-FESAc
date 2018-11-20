@@ -34,13 +34,13 @@ debe seguir el que se muestra en el siguiente archivo:
 	Finalmente, el documento debe lucir como el que se muestre en 
 	la bitácora [ver PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0).
 
-2. *02file-ext.c* Investiga para qué sirve la función rewind()
-
+2. *02file-ext.c* Investiga para qué sirve la función rewind().
+<!--
 ~~~
 En este programa se crea crea un archivo, guarda información y luego la imprime en 
 pantalla.
 ~~~
-
+-->
 
 3. *Ejercicio en Clase*
 	Realiza un código que muestre como salida un archivo en .txt
