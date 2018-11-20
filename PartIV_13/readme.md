@@ -42,6 +42,11 @@ pantalla.
 ~~~
 
 
+3. *Ejercicio en Clase*
+	Realiza un código que muestre como salida un archivo en .txt
+	igual al que aparece en esta carpeta llamado: _CV-example.pdf_.
+	Debe llenarlo con su información.	
+
 
 ## Referencias
 
