@@ -11,7 +11,7 @@ The student has to read follow blogs:
 
 Now you can discuss with your classmates :stuck_out_tongue_winking_eye:.
 
-Ask to Salvador, Alfonso or Adriana about the course, philosophy, ideas, projects or any.
+Ask to Salvador, Alfonso or Miguel about the course, philosophy, ideas, projects or anything else.
 
 
 Remember professor is not a :cop:, professor is a advisor who wants to discover differents things about 
@@ -19,14 +19,14 @@ programming.
 
    Object                                                         |  Porcentage  |
 ------------------------------------------------------------------| -------------|
-  First exam (17-21 september):                 | 30 %         |
-  Second exam (05-09 november):                 | 30 %         |
-  Final Project (friday 16 november):                        | 20 %         |    
+  First exam (17-20 september):                 | 30 %         |
+  Second exam (04-08 november):                 | 30 %         |
+  Final Project (friday 15 november):                        | 20 %         |    
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
   
 ## Material
-Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
+Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Miguel to log in.
 Besides you can download the document use in the class [here](https://www.dropbox.com/s/zrnxyf1xrojbpag/prgrmmng-I-clss.pdf?dl=0).
 
 ## Homework (Section is building, the final version will be ready the monday at 9:00am)
